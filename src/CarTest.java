@@ -3,7 +3,8 @@ import org.junit.jupiter.api.Test;
 
 public class CarTest {
 
-    String make = "Honda"; 
+//    String make = "Honda"; 
+    String make = "HONDAA";
     String model = "Civic"; 
     Car testCar = new Car(make, model); 
     
